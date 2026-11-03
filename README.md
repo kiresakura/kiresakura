@@ -1,13 +1,16 @@
-# Hi, I'm Crimson 👋
+# Hi, I'm Hsien-Lung (Crimson) 👋
 
-Software engineer based in Tainan, Taiwan. I build **LINE and chat bots, workflow automation, and small AI knowledge tools** for small businesses — systems that answer the same customer questions every day, send the reminders nobody remembers, and keep team knowledge searchable.
+Three years ago I had never written a line of code. Today a team of AI agents I built can file and cross-check thousands of records in an afternoon.
 
-## What I can build for you
+It started one night in 2023, when I sent my first message to a large language model and the reply felt like talking to a species made of something completely different from us. I study history at National Cheng Kung University and take the university's AI credit program, I have a hearing impairment, and I started from one line of code and kept going.
 
-- **LINE customer-service bots** — FAQ auto-replies, opening hours, hand-off to a human when the bot can't answer, and optional AI answers that stay inside your FAQ.
-- **Workflow automation** — form to spreadsheet, due-date and payment reminders, weekly reports, with notifications on LINE, Telegram or email.
-- **Team knowledge bases** — turn group chats and documents into a searchable knowledge base in Notion or Markdown.
-- **Backends and integrations** — Python and TypeScript services, PostgreSQL, Docker deployments, webhooks and third-party APIs.
+## What I've built
+
+- **Document automation at my university's international office**: a two-agent workflow, where one agent does the work and a second agent re-checks everything independently, that downloaded, matched and filed the records of more than 3,000 applicants.
+- **Historical archive digitization**: a multi-agent pipeline (text recognition, sorting, linking, translation and a final check) for thousands of scanned German diplomatic documents from the 1880s, on an NSTC-funded research project.
+- **An open-source fix**: my pull request to [OpenClaw](https://github.com/openclaw/openclaw), fixing a model connection check that probed the wrong model, was merged by the maintainers ([#178962](https://github.com/openclaw/openclaw/pull/178962)).
+- **My own agent team**: a harness adapted from OpenClaw where a lead agent assigns the work, the other agents discuss and check each other, and they only stop when they need my decision. Right now they are building a game world of my university campus.
+- **Bots and tools for small businesses**: see the projects below.
 
 ## Featured projects
 
@@ -25,14 +28,20 @@ Every project above runs its test suite on GitHub Actions.
 ## How I work
 
 - Plain-language scope, price and timeline before any code is written.
-- You can test a working version before it goes live.
-- You get the source code and setup docs. No lock-in.
+- A second check built in, so you're never trusting a single AI pass.
+- You can test a working version before it goes live, and you get the source code and setup docs. No lock-in.
+
+## Why I'm doing this
+
+The question that started it all still drives me: can AI be conscious? I'm working through the math, machine learning and interpretability to find out.
 
 ## 繁體中文
 
-我是 Crimson，住台南的軟體工程師，接 LINE 客服機器人、重複工作自動化（表單、提醒、報表）和 AI 知識庫。動工前先用白話講清楚能不能做、多少錢、多久好；上線前先給你試；程式碼和說明文件都交給你。歡迎到出任務工作室找我。
+2023 年的某個晚上，我第一次跟 LLM 對話，從那天起就一直在想，它們有沒有可能真的「醒過來」。三年前我一行程式都不會寫，現在有一支自己打造的 AI Agent 團隊：替成大國際處自動化處理三千多位申請者的文件、替國科會計畫處理 1880 年代的德文外交檔案，也接 LINE 客服機器人、流程自動化和 AI 知識庫的案子。動工前先用白話講清楚能不能做、多少錢、多久好；上線前先給你試；程式碼和說明文件都交給你。
 
 ## Contact
 
+- LinkedIn: https://www.linkedin.com/in/hsien-lung-chung
 - Tasker（出任務）: https://www.tasker.com.tw/workroom/crimson
+- Upwork: https://www.upwork.com/freelancers/~01380aa0a3dac93187
 - GitHub: https://github.com/kiresakura
